@@ -18,7 +18,7 @@ IRsend irsend(kIrLed);  // Set the GPIO to be used to sending the message.
 
 //wifi variables
 const char* ssid = "MaxxFanCtrl";
-const char* password = "caschy1980";
+const char* password = "FAN1234";
 // Set web server port number to 80
 ESP8266WebServer webserver(80);
 
